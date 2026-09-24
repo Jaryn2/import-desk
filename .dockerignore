@@ -1,0 +1,11 @@
+.git
+.env
+.env.*
+web/node_modules
+web/dist
+target
+.venv
+**/__pycache__
+test-results
+docs
+integration

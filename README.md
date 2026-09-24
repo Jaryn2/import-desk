@@ -6,6 +6,8 @@ Python CSV imports with row checks, retries, and a scheduled sample feed.
 
 [Project page and walkthrough](https://jaryn2.github.io/projects/import-desk/) · [Code guide](GUIDE.md) · [Learning guide](docs/LEARNING.md)
 
+![Import Desk local screenshot](docs/screenshots/import-desk-imports.png)
+
 ## Run it
 
 Install Python 3.12 or newer and Docker with Compose. Run these commands from this repo's root:
